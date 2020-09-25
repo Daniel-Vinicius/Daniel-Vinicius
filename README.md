@@ -15,3 +15,5 @@ Sou um FullStack Developer que ainda está estudando. :boy:
 [![Gmail Badge](https://img.shields.io/badge/-Daniel%20V%C3%ADn%C3%ADcius-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.dan.programador@gmail.com)](mailto:dev.dan.programador@gmail.com)
 
 [![Telegram Badge](https://img.shields.io/badge/-Daniel%20V%C3%ADn%C3%ADcius-blue?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/DanielVini)](https://t.me/DanielVini)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Vinicius&show_icons=true" alt="Daniel-Vinicius" /> </p>
