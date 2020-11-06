@@ -18,6 +18,8 @@ Sou um FullStack Developer que ainda está estudando. :boy:
 <details>
     <summary>Minhas Estátisticas no Github</summary>
 
+---
+
 [![Daniel Vinicius github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Vinicius&include_all_commits=true)](https://github.com/Daniel-Vinicius)
 
 ---
