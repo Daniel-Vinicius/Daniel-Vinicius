@@ -21,9 +21,9 @@ Sou um FullStack Developer em formação. :boy:
 
 ---
 
-[![Daniel Vinicius github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Vinicius&include_all_commits=true)](https://github.com/Daniel-Vinicius)
+[![Daniel Vinicius github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Vinicius&include_all_commits=true&theme=dark&show_icons=true&icon_color=ad221d&hide_border=0&title_color=ad221d)](https://github.com/Daniel-Vinicius)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Vinicius&layout=compact)](https://github.com/Daniel-Vinicius)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Vinicius&layout=compact&theme=dark&show_icons=true&hide_border=0&title_color=ad221d)](https://github.com/Daniel-Vinicius)
+-->
 </details>
