@@ -5,7 +5,6 @@ Sou apaixonado por resolver problemas utilizando a programação. 👨‍💻 <b
 Sou um FullStack Developer em formação. :boy:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node.js.
- <br/> :blush: &nbsp; Posso te ajudar com Produtividade com o <a href="https://blog.runrun.it/o-que-e-kanban/"> Método Kanban </a>, responsividade e até anúncios em YouTube ads.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native
  <br/> 💬  &nbsp; Sobre mim: gosto de tecnologias, games e músicas no Spotify
  <br/> :email: &nbsp; Entre em contato comigo:
