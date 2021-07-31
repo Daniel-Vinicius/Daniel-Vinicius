@@ -1,7 +1,7 @@
 # 👨‍💻Daniel Vinícius
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação. 👨‍💻 <br/>
+Sou apaixonado por resolver problemas utilizando a programação. 👨‍💻
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node.js.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native
