@@ -21,6 +21,8 @@ Sou apaixonado por resolver problemas utilizando a programação. 👨‍💻
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
  
 <img width="400px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=Daniel-Vinicius&show_icons=true&theme=dracula&count_private=true"/>
+ 
+ 
 <img width="400px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Vinicius&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=objective-c,java,scss" />
  
 </div>
