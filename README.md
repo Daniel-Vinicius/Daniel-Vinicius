@@ -2,8 +2,9 @@
 
 ## Olá pessoal 👋
 
-**Sou apaixonado por resolver problemas utilizando a programação. 👨‍💻**
-
+Sou apaixonado por resolver problemas utilizando a programação
+<img align="right" alt="Profile Views Daniel Vinicius" src="https://komarev.com/ghpvc/?username=Daniel-Vinicius&color=e05d44" />
+ 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node.js.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native
  <br/> :email: &nbsp; Entre em contato comigo:
@@ -11,10 +12,12 @@
 
 <p align="left">
   <a href="mailto:dev.dan.programador@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Daniel%20V%C3%ADn%C3%ADcius-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.dan.programador@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Daniel%20V%C3%ADn%C3%ADcius-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.dan.programador@gmail.com" />
+ </a>
 
   <a href="https://www.linkedin.com/in/daniel-vinicius-viana/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Daniel%20V%C3%ADn%C3%ADcius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/daniel-vinicius-viana" /></a>
+  <img src="https://img.shields.io/badge/-Daniel%20V%C3%ADn%C3%ADcius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/daniel-vinicius-viana" />
+ </a>
 </p>  
 
 
