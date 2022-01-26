@@ -6,7 +6,7 @@ Sou apaixonado por resolver problemas utilizando a programação
 <img align="right" alt="Profile Views Daniel Vinicius" src="https://komarev.com/ghpvc/?username=Daniel-Vinicius&color=e05d44" />
  
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node.js.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Golang
  <br/> :email: &nbsp; Entre em contato comigo:
 
 
